@@ -1,5 +1,0 @@
-ConnectionError
-Journal of Natural Products
-('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
-
-[<FrameSummary file /Users/YUKI/Library/Mobile Documents/com~apple~CloudDocs/upei1/4th yr/18-19 winter/cs4820-SoftwareProject/GitHub/Project/TestProject/CS4820-Project/test.py, line 10 in <module>>, <FrameSummary file /Users/YUKI/Library/Mobile Documents/com~apple~CloudDocs/upei1/4th yr/18-19 winter/cs4820-SoftwareProject/GitHub/Project/TestProject/CS4820-Project/main.py, line 193 in test_call>, <FrameSummary file /Users/YUKI/Library/Mobile Documents/com~apple~CloudDocs/upei1/4th yr/18-19 winter/cs4820-SoftwareProject/GitHub/Project/TestProject/CS4820-Project/main.py, line 164 in start_without_ui>]

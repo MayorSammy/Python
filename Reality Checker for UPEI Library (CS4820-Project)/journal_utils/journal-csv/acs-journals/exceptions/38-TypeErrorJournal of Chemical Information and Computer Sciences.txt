@@ -1,3 +1,0 @@
-TypeError
-Journal of Chemical Information and Computer Sciences
-must be str, not NoneType
